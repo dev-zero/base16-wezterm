@@ -1,0 +1,15 @@
+# Base16 Gruvbox light, hard - wezterm color config
+# Scheme by Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
+[colors]
+background = "#f9f5d7"
+foreground = "#504945"
+
+cursor_bg = "#f9f5d7"
+cursor_border = "#504945"
+cursor_fg = "#f9f5d7"
+
+selection_bg = "#504945"
+selection_fg = "#f9f5d7"
+
+ansi = ["#f9f5d7", "#9d0006", "#79740e", "#b57614", "#076678", "#8f3f71", "#427b58", "#504945"]
+brights = ["#bdae93", "#af3a03", "#ebdbb2", "#d5c4a1", "#665c54", "#3c3836", "#d65d0e", "#282828"]

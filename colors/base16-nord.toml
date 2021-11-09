@@ -1,0 +1,15 @@
+# Base16 Nord - wezterm color config
+# Scheme by arcticicestudio
+[colors]
+background = "#2E3440"
+foreground = "#E5E9F0"
+
+cursor_bg = "#2E3440"
+cursor_border = "#E5E9F0"
+cursor_fg = "#2E3440"
+
+selection_bg = "#E5E9F0"
+selection_fg = "#2E3440"
+
+ansi = ["#2E3440", "#BF616A", "#A3BE8C", "#EBCB8B", "#81A1C1", "#B48EAD", "#88C0D0", "#E5E9F0"]
+brights = ["#4C566A", "#D08770", "#3B4252", "#434C5E", "#D8DEE9", "#ECEFF4", "#5E81AC", "#8FBCBB"]

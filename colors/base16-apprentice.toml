@@ -1,0 +1,15 @@
+# Base16 Apprentice - wezterm color config
+# Scheme by romainl
+[colors]
+background = "#262626"
+foreground = "#BCBCBC"
+
+cursor_bg = "#262626"
+cursor_border = "#BCBCBC"
+cursor_fg = "#262626"
+
+selection_bg = "#BCBCBC"
+selection_fg = "#262626"
+
+ansi = ["#262626", "#5F8787", "#87AF87", "#5F8787", "#FFFFAF", "#87AFD7", "#5F875F", "#BCBCBC"]
+brights = ["#6C6C6C", "#FF8700", "#303030", "#333333", "#787878", "#C9C9C9", "#5F87AF", "#FFFFFF"]

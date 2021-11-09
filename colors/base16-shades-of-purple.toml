@@ -1,0 +1,15 @@
+# Base16 Shades of Purple - wezterm color config
+# Scheme by Iolar Demartini Junior (http://github.com/demartini) based on Shades of Purple Theme (https://github.com/ahmadawais/shades-of-purple-vscode).
+[colors]
+background = "#1e1e3f"
+foreground = "#c7c7c7"
+
+cursor_bg = "#1e1e3f"
+cursor_border = "#c7c7c7"
+cursor_fg = "#1e1e3f"
+
+selection_bg = "#c7c7c7"
+selection_fg = "#1e1e3f"
+
+ansi = ["#1e1e3f", "#d90429", "#3ad900", "#ffe700", "#6943ff", "#ff2c70", "#00c5c7", "#c7c7c7"]
+brights = ["#808080", "#f92a1c", "#43d426", "#f1d000", "#6871ff", "#ff77ff", "#79e8fb", "#ffffff"]

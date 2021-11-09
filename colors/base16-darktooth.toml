@@ -1,0 +1,15 @@
+# Base16 Darktooth - wezterm color config
+# Scheme by Jason Milkins (https://github.com/jasonm23)
+[colors]
+background = "#1D2021"
+foreground = "#A89984"
+
+cursor_bg = "#1D2021"
+cursor_border = "#A89984"
+cursor_fg = "#1D2021"
+
+selection_bg = "#A89984"
+selection_fg = "#1D2021"
+
+ansi = ["#1D2021", "#FB543F", "#95C085", "#FAC03B", "#0D6678", "#8F4673", "#8BA59B", "#A89984"]
+brights = ["#665C54", "#FE8625", "#32302F", "#504945", "#928374", "#D5C4A1", "#A87322", "#FDF4C1"]

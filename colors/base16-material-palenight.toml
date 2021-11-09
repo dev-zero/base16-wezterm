@@ -1,0 +1,15 @@
+# Base16 Material Palenight - wezterm color config
+# Scheme by Nate Peterson
+[colors]
+background = "#292D3E"
+foreground = "#959DCB"
+
+cursor_bg = "#292D3E"
+cursor_border = "#959DCB"
+cursor_fg = "#292D3E"
+
+selection_bg = "#959DCB"
+selection_fg = "#292D3E"
+
+ansi = ["#292D3E", "#F07178", "#C3E88D", "#FFCB6B", "#82AAFF", "#C792EA", "#89DDFF", "#959DCB"]
+brights = ["#676E95", "#F78C6C", "#444267", "#32374D", "#8796B0", "#959DCB", "#FF5370", "#FFFFFF"]

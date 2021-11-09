@@ -1,0 +1,15 @@
+# Base16 Dracula - wezterm color config
+# Scheme by Mike Barkmin (http://github.com/mikebarkmin) based on Dracula Theme (http://github.com/dracula)
+[colors]
+background = "#282936"
+foreground = "#e9e9f4"
+
+cursor_bg = "#282936"
+cursor_border = "#e9e9f4"
+cursor_fg = "#282936"
+
+selection_bg = "#e9e9f4"
+selection_fg = "#282936"
+
+ansi = ["#282936", "#ea51b2", "#ebff87", "#00f769", "#62d6e8", "#b45bcf", "#a1efe4", "#e9e9f4"]
+brights = ["#626483", "#b45bcf", "#3a3c4e", "#4d4f68", "#62d6e8", "#f1f2f8", "#00f769", "#f7f7fb"]

@@ -1,0 +1,15 @@
+# Base16 Material Darker - wezterm color config
+# Scheme by Nate Peterson
+[colors]
+background = "#212121"
+foreground = "#EEFFFF"
+
+cursor_bg = "#212121"
+cursor_border = "#EEFFFF"
+cursor_fg = "#212121"
+
+selection_bg = "#EEFFFF"
+selection_fg = "#212121"
+
+ansi = ["#212121", "#F07178", "#C3E88D", "#FFCB6B", "#82AAFF", "#C792EA", "#89DDFF", "#EEFFFF"]
+brights = ["#4A4A4A", "#F78C6C", "#303030", "#353535", "#B2CCD6", "#EEFFFF", "#FF5370", "#FFFFFF"]

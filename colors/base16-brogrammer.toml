@@ -1,0 +1,15 @@
+# Base16 Brogrammer - wezterm color config
+# Scheme by Vik Ramanujam (http://github.com/piggyslasher)
+[colors]
+background = "#1f1f1f"
+foreground = "#4e5ab7"
+
+cursor_bg = "#1f1f1f"
+cursor_border = "#4e5ab7"
+cursor_fg = "#1f1f1f"
+
+selection_bg = "#4e5ab7"
+selection_fg = "#1f1f1f"
+
+ansi = ["#1f1f1f", "#d6dbe5", "#f3bd09", "#1dd361", "#5350b9", "#0f7ddb", "#1081d6", "#4e5ab7"]
+brights = ["#ecba0f", "#de352e", "#f81118", "#2dc55e", "#2a84d2", "#1081d6", "#ffffff", "#d6dbe5"]

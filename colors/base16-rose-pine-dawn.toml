@@ -1,0 +1,15 @@
+# Base16 Rosé Pine Dawn - wezterm color config
+# Scheme by Emilia Dunfelt &lt;sayhi@dunfelt.se&gt;
+[colors]
+background = "#faf4ed"
+foreground = "#575279"
+
+cursor_bg = "#faf4ed"
+cursor_border = "#575279"
+cursor_fg = "#faf4ed"
+
+selection_bg = "#575279"
+selection_fg = "#faf4ed"
+
+ansi = ["#faf4ed", "#1f1d2e", "#d7827e", "#ea9d34", "#56949f", "#907aa9", "#286983", "#575279"]
+brights = ["#9893a5", "#b4637a", "#fffaf3", "#f2e9de", "#6e6a86", "#555169", "#c5c3ce", "#26233a"]

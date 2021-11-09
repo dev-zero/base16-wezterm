@@ -1,0 +1,15 @@
+# Base16 Solarized Light - wezterm color config
+# Scheme by Ethan Schoonover (modified by aramisgithub)
+[colors]
+background = "#fdf6e3"
+foreground = "#586e75"
+
+cursor_bg = "#fdf6e3"
+cursor_border = "#586e75"
+cursor_fg = "#fdf6e3"
+
+selection_bg = "#586e75"
+selection_fg = "#fdf6e3"
+
+ansi = ["#fdf6e3", "#dc322f", "#859900", "#b58900", "#268bd2", "#6c71c4", "#2aa198", "#586e75"]
+brights = ["#839496", "#cb4b16", "#eee8d5", "#93a1a1", "#657b83", "#073642", "#d33682", "#002b36"]

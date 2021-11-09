@@ -1,0 +1,15 @@
+# Base16 Unikitty Dark - wezterm color config
+# Scheme by Josh W Lewis (@joshwlewis)
+[colors]
+background = "#2e2a31"
+foreground = "#bcbabe"
+
+cursor_bg = "#2e2a31"
+cursor_border = "#bcbabe"
+cursor_fg = "#2e2a31"
+
+selection_bg = "#bcbabe"
+selection_fg = "#2e2a31"
+
+ansi = ["#2e2a31", "#d8137f", "#17ad98", "#dc8a0e", "#796af5", "#bb60ea", "#149bda", "#bcbabe"]
+brights = ["#838085", "#d65407", "#4a464d", "#666369", "#9f9da2", "#d8d7da", "#c720ca", "#f5f4f7"]

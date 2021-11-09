@@ -1,0 +1,15 @@
+# Base16 Humanoid light - wezterm color config
+# Scheme by Thomas (tasmo) Friese
+[colors]
+background = "#f8f8f2"
+foreground = "#232629"
+
+cursor_bg = "#f8f8f2"
+cursor_border = "#232629"
+cursor_fg = "#f8f8f2"
+
+selection_bg = "#232629"
+selection_fg = "#f8f8f2"
+
+ansi = ["#f8f8f2", "#b0151a", "#388e3c", "#ffb627", "#0082c9", "#700f98", "#008e8e", "#232629"]
+brights = ["#c0c0bd", "#ff3d00", "#efefe9", "#deded8", "#60615d", "#2f3337", "#b27701", "#070708"]

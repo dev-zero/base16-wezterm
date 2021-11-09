@@ -1,0 +1,15 @@
+# Base16 Synth Midnight Terminal Light - wezterm color config
+# Scheme by Michaël Ball (http://github.com/michael-ball/)
+[colors]
+background = "#dddfe0"
+foreground = "#28292a"
+
+cursor_bg = "#dddfe0"
+cursor_border = "#28292a"
+cursor_fg = "#dddfe0"
+
+selection_bg = "#28292a"
+selection_fg = "#dddfe0"
+
+ansi = ["#dddfe0", "#b53b50", "#06ea61", "#c9d364", "#03aeff", "#ea5ce2", "#42fff9", "#28292a"]
+brights = ["#a3a5a6", "#ea770d", "#cfd1d2", "#c1c3c4", "#474849", "#1a1b1c", "#cd6320", "#050608"]

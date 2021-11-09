@@ -1,0 +1,15 @@
+# Base16 Atelier Plateau - wezterm color config
+# Scheme by Bram de Haan (http://atelierbramdehaan.nl)
+[colors]
+background = "#1b1818"
+foreground = "#8a8585"
+
+cursor_bg = "#1b1818"
+cursor_border = "#8a8585"
+cursor_fg = "#1b1818"
+
+selection_bg = "#8a8585"
+selection_fg = "#1b1818"
+
+ansi = ["#1b1818", "#ca4949", "#4b8b8b", "#a06e3b", "#7272ca", "#8464c4", "#5485b6", "#8a8585"]
+brights = ["#655d5d", "#b45a3c", "#292424", "#585050", "#7e7777", "#e7dfdf", "#bd5187", "#f4ecec"]

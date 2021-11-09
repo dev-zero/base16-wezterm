@@ -1,0 +1,15 @@
+# Base16 Railscasts - wezterm color config
+# Scheme by Ryan Bates (http://railscasts.com)
+[colors]
+background = "#2b2b2b"
+foreground = "#e6e1dc"
+
+cursor_bg = "#2b2b2b"
+cursor_border = "#e6e1dc"
+cursor_fg = "#2b2b2b"
+
+selection_bg = "#e6e1dc"
+selection_fg = "#2b2b2b"
+
+ansi = ["#2b2b2b", "#da4939", "#a5c261", "#ffc66d", "#6d9cbe", "#b6b3eb", "#519f50", "#e6e1dc"]
+brights = ["#5a647e", "#cc7833", "#272935", "#3a4055", "#d4cfc9", "#f4f1ed", "#bc9458", "#f9f7f3"]

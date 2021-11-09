@@ -1,0 +1,15 @@
+# Base16 Black Metal (Khold) - wezterm color config
+# Scheme by metalelf0 (https://github.com/metalelf0)
+[colors]
+background = "#000000"
+foreground = "#c1c1c1"
+
+cursor_bg = "#000000"
+cursor_border = "#c1c1c1"
+cursor_fg = "#000000"
+
+selection_bg = "#c1c1c1"
+selection_fg = "#000000"
+
+ansi = ["#000000", "#5f8787", "#eceee3", "#974b46", "#888888", "#999999", "#aaaaaa", "#c1c1c1"]
+brights = ["#333333", "#aaaaaa", "#121212", "#222222", "#999999", "#999999", "#444444", "#c1c1c1"]

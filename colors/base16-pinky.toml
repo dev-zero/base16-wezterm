@@ -1,0 +1,15 @@
+# Base16 pinky - wezterm color config
+# Scheme by Benjamin (https://github.com/b3nj5m1n)
+[colors]
+background = "#171517"
+foreground = "#f5f5f5"
+
+cursor_bg = "#171517"
+cursor_border = "#f5f5f5"
+cursor_fg = "#171517"
+
+selection_bg = "#f5f5f5"
+selection_fg = "#171517"
+
+ansi = ["#171517", "#ffa600", "#ff0066", "#20df6c", "#00ffff", "#007fff", "#6600ff", "#f5f5f5"]
+brights = ["#383338", "#00ff66", "#1b181b", "#1d1b1d", "#e7dbdb", "#ffffff", "#df206c", "#f7f3f7"]

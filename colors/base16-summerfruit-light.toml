@@ -1,0 +1,15 @@
+# Base16 Summerfruit Light - wezterm color config
+# Scheme by Christopher Corley (http://christop.club/)
+[colors]
+background = "#FFFFFF"
+foreground = "#101010"
+
+cursor_bg = "#FFFFFF"
+cursor_border = "#101010"
+cursor_fg = "#FFFFFF"
+
+selection_bg = "#101010"
+selection_fg = "#FFFFFF"
+
+ansi = ["#FFFFFF", "#FF0086", "#00C918", "#ABA800", "#3777E6", "#AD00A1", "#1FAAAA", "#101010"]
+brights = ["#B0B0B0", "#FD8900", "#E0E0E0", "#D0D0D0", "#000000", "#151515", "#CC6633", "#202020"]

@@ -1,0 +1,15 @@
+# Base16 Outrun Dark - wezterm color config
+# Scheme by Hugo Delahousse (http://github.com/hugodelahousse/)
+[colors]
+background = "#00002A"
+foreground = "#D0D0FA"
+
+cursor_bg = "#00002A"
+cursor_border = "#D0D0FA"
+cursor_fg = "#00002A"
+
+selection_bg = "#D0D0FA"
+selection_fg = "#00002A"
+
+ansi = ["#00002A", "#FF4242", "#59F176", "#F3E877", "#66B0FF", "#F10596", "#0EF0F0", "#D0D0FA"]
+brights = ["#50507A", "#FC8D28", "#20204A", "#30305A", "#B0B0DA", "#E0E0FF", "#F003EF", "#F5F5FF"]

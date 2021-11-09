@@ -1,0 +1,15 @@
+# Base16 Rosé Pine - wezterm color config
+# Scheme by Emilia Dunfelt &lt;sayhi@dunfelt.se&gt;
+[colors]
+background = "#191724"
+foreground = "#e0def4"
+
+cursor_bg = "#191724"
+cursor_border = "#e0def4"
+cursor_fg = "#191724"
+
+selection_bg = "#e0def4"
+selection_fg = "#191724"
+
+ansi = ["#191724", "#e2e1e7", "#ebbcba", "#f6c177", "#9ccfd8", "#c4a7e7", "#31748f", "#e0def4"]
+brights = ["#555169", "#eb6f92", "#1f1d2e", "#26233a", "#6e6a86", "#f0f0f3", "#e5e5e5", "#c5c3ce"]

@@ -1,0 +1,15 @@
+# Base16 summercamp - wezterm color config
+# Scheme by zoe firi (zoefiri.github.io)
+[colors]
+background = "#1c1810"
+foreground = "#736e55"
+
+cursor_bg = "#1c1810"
+cursor_border = "#736e55"
+cursor_fg = "#1c1810"
+
+selection_bg = "#736e55"
+selection_fg = "#1c1810"
+
+ansi = ["#1c1810", "#e35142", "#5ceb5a", "#f2ff27", "#489bf0", "#FF8080", "#5aebbc", "#736e55"]
+brights = ["#504b38", "#fba11b", "#2a261c", "#3a3527", "#5f5b45", "#bab696", "#F69BE7", "#f8f5de"]

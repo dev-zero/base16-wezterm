@@ -1,0 +1,15 @@
+# Base16 Mellow Purple - wezterm color config
+# Scheme by gidsi
+[colors]
+background = "#1e0528"
+foreground = "#ffeeff"
+
+cursor_bg = "#1e0528"
+cursor_border = "#ffeeff"
+cursor_fg = "#1e0528"
+
+selection_bg = "#ffeeff"
+selection_fg = "#1e0528"
+
+ansi = ["#1e0528", "#00d9e9", "#05cb0d", "#955ae7", "#550068", "#8991bb", "#b900b1", "#ffeeff"]
+brights = ["#320f55", "#aa00a3", "#1A092D", "#331354", "#873582", "#ffeeff", "#4d6fff", "#f8c0ff"]

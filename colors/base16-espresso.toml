@@ -1,0 +1,15 @@
+# Base16 Espresso - wezterm color config
+# Scheme by Unknown. Maintained by Alex Mirrington (https://github.com/alexmirrington)
+[colors]
+background = "#2d2d2d"
+foreground = "#cccccc"
+
+cursor_bg = "#2d2d2d"
+cursor_border = "#cccccc"
+cursor_fg = "#2d2d2d"
+
+selection_bg = "#cccccc"
+selection_fg = "#2d2d2d"
+
+ansi = ["#2d2d2d", "#d25252", "#a5c261", "#ffc66d", "#6c99bb", "#d197d9", "#bed6ff", "#cccccc"]
+brights = ["#777777", "#f9a959", "#393939", "#515151", "#b4b7b4", "#e0e0e0", "#f97394", "#ffffff"]

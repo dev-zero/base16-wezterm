@@ -1,0 +1,15 @@
+# Base16 Materia - wezterm color config
+# Scheme by Defman21
+[colors]
+background = "#263238"
+foreground = "#CDD3DE"
+
+cursor_bg = "#263238"
+cursor_border = "#CDD3DE"
+cursor_fg = "#263238"
+
+selection_bg = "#CDD3DE"
+selection_fg = "#263238"
+
+ansi = ["#263238", "#EC5F67", "#8BD649", "#FFCC00", "#89DDFF", "#82AAFF", "#80CBC4", "#CDD3DE"]
+brights = ["#707880", "#EA9560", "#2C393F", "#37474F", "#C9CCD3", "#D5DBE5", "#EC5F67", "#FFFFFF"]

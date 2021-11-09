@@ -1,0 +1,15 @@
+# Base16 Harmonic16 Dark - wezterm color config
+# Scheme by Jannik Siebert (https://github.com/janniks)
+[colors]
+background = "#0b1c2c"
+foreground = "#cbd6e2"
+
+cursor_bg = "#0b1c2c"
+cursor_border = "#cbd6e2"
+cursor_fg = "#0b1c2c"
+
+selection_bg = "#cbd6e2"
+selection_fg = "#0b1c2c"
+
+ansi = ["#0b1c2c", "#bf8b56", "#56bf8b", "#8bbf56", "#8b56bf", "#bf568b", "#568bbf", "#cbd6e2"]
+brights = ["#627e99", "#bfbf56", "#223b54", "#405c79", "#aabcce", "#e5ebf1", "#bf5656", "#f7f9fb"]

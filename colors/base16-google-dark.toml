@@ -1,0 +1,15 @@
+# Base16 Google Dark - wezterm color config
+# Scheme by Seth Wright (http://sethawright.com)
+[colors]
+background = "#1d1f21"
+foreground = "#c5c8c6"
+
+cursor_bg = "#1d1f21"
+cursor_border = "#c5c8c6"
+cursor_fg = "#1d1f21"
+
+selection_bg = "#c5c8c6"
+selection_fg = "#1d1f21"
+
+ansi = ["#1d1f21", "#CC342B", "#198844", "#FBA922", "#3971ED", "#A36AC7", "#3971ED", "#c5c8c6"]
+brights = ["#969896", "#F96A38", "#282a2e", "#373b41", "#b4b7b4", "#e0e0e0", "#3971ED", "#ffffff"]

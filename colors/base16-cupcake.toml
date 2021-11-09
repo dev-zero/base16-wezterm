@@ -1,0 +1,15 @@
+# Base16 Cupcake - wezterm color config
+# Scheme by Chris Kempson (http://chriskempson.com)
+[colors]
+background = "#fbf1f2"
+foreground = "#8b8198"
+
+cursor_bg = "#fbf1f2"
+cursor_border = "#8b8198"
+cursor_fg = "#fbf1f2"
+
+selection_bg = "#8b8198"
+selection_fg = "#fbf1f2"
+
+ansi = ["#fbf1f2", "#D57E85", "#A3B367", "#DCB16C", "#7297B9", "#BB99B4", "#69A9A7", "#8b8198"]
+brights = ["#bfb9c6", "#EBB790", "#f2f1f4", "#d8d5dd", "#a59daf", "#72677E", "#BAA58C", "#585062"]

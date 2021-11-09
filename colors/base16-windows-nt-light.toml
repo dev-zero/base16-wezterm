@@ -1,0 +1,15 @@
+# Base16 Windows NT Light - wezterm color config
+# Scheme by Fergus Collins (https://github.com/C-Fergus)
+[colors]
+background = "#ffffff"
+foreground = "#808080"
+
+cursor_bg = "#ffffff"
+cursor_border = "#808080"
+cursor_fg = "#ffffff"
+
+selection_bg = "#808080"
+selection_fg = "#ffffff"
+
+ansi = ["#ffffff", "#800000", "#008000", "#808000", "#000080", "#800080", "#008080", "#808080"]
+brights = ["#c0c0c0", "#ffff00", "#eaeaea", "#d5d5d5", "#a0a0a0", "#404040", "#00ff00", "#000000"]

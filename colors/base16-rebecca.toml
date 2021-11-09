@@ -1,0 +1,15 @@
+# Base16 Rebecca - wezterm color config
+# Scheme by Victor Borja (http://github.com/vic) based on Rebecca Theme (http://github.com/vic/rebecca-theme)
+[colors]
+background = "#292a44"
+foreground = "#f1eff8"
+
+cursor_bg = "#292a44"
+cursor_border = "#f1eff8"
+cursor_fg = "#292a44"
+
+selection_bg = "#f1eff8"
+selection_fg = "#292a44"
+
+ansi = ["#292a44", "#a0a0c5", "#6dfedf", "#ae81ff", "#2de0a7", "#7aa5ff", "#8eaee0", "#f1eff8"]
+brights = ["#666699", "#efe4a1", "#663399", "#383a62", "#a0a0c5", "#ccccff", "#ff79c6", "#53495d"]

@@ -1,0 +1,15 @@
+# Base16 Darcula - wezterm color config
+# Scheme by jetbrains
+[colors]
+background = "#2b2b2b"
+foreground = "#a9b7c6"
+
+cursor_bg = "#2b2b2b"
+cursor_border = "#a9b7c6"
+cursor_fg = "#2b2b2b"
+
+selection_bg = "#a9b7c6"
+selection_fg = "#2b2b2b"
+
+ansi = ["#2b2b2b", "#4eade5", "#6a8759", "#bbb529", "#9876aa", "#cc7832", "#629755", "#a9b7c6"]
+brights = ["#606366", "#689757", "#323232", "#323232", "#a4a3a3", "#ffc66d", "#808080", "#ffffff"]
